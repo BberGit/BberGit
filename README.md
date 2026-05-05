@@ -7,4 +7,4 @@
 
 ## Career
 * Projet engineer
-* design engineer
+* Design engineer
